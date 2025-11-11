@@ -4,6 +4,43 @@ Welcome to my comprehensive data engineering portfolio showcasing production-gra
 
 ---
 
+## 🛠️ Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+## 💼 Core Competencies
+
+### 📊 Data Engineering
+- **ETL Pipelines**: Batch and real-time data processing with Apache Spark
+- **Data Integration**: Multi-source ingestion from databases, APIs, streaming platforms
+- **Data Quality**: Automated validation, cleansing, and governance frameworks
+
+### 📈 Analytics & BI
+- **Business Intelligence**: Interactive dashboards and reporting solutions
+- **Dashboard Development**: Tableau, Power BI, and custom visualization tools
+- **Data Modeling**: Dimensional modeling, star schema, and data vault architectures
+
+### 🤖 AI/ML & GenAI
+- **Machine Learning**: Predictive modeling with Spark MLlib and scikit-learn
+- **MLOps**: Automated training, deployment, and monitoring pipelines
+- **GenAI Projects**: LLM integration and AI-powered analytics solutions
+
+---
+
 ## 📚 Projects
 
 ### 🎯 Featured Projects
