@@ -1,5 +1,20 @@
 # Data Engineering Portfolio
 
+Welcome to my comprehensive data engineering portfolio showcasing production-grade big data solutions, real-time streaming architectures, and MLOps pipelines.
+
+---
+
+## 📚 Projects
+
+### 🎯 Featured Projects
+
+1. **[Enterprise ETL Pipeline](#enterprise-grade-etl-pipeline-architecture)** - Production-ready batch processing with PySpark
+2. **[Real-Time Streaming Pipeline](projects/01_REALTIME_STREAMING_PIPELINE.md)** - Kafka + Spark Structured Streaming for sub-second analytics
+3. **[Modern Data Lake Architecture](projects/02_DATA_LAKE_ARCHITECTURE.md)** - Multi-petabyte medallion architecture on AWS
+4. **[MLOps Pipeline](projects/03_ML_PIPELINE_AUTOMATION.md)** - End-to-end ML with Spark MLlib and MLflow
+
+---
+
 ## Enterprise-Grade ETL Pipeline Architecture
 
 ### Project Synopsis
