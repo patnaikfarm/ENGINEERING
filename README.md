@@ -422,8 +422,8 @@ spark-submit --master yarn \
 
 Interested in discussing data engineering best practices or collaborating on similar projects? Feel free to reach out!
 
-**Portfolio**: [Your GitHub Profile](https://github.com/yourusername)
-**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**Portfolio**: [GitHub Profile](https://github.com/patnaikfarm)
+**Email**: patnaikfarm@gmail.com
 
 ---
 
@@ -433,4 +433,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built with ⚡ by [Your Name] | Data Engineer | Apache Spark Enthusiast*
+*Built with ⚡ by Priyankar Patnaik | Data Engineer | Apache Spark Enthusiast*
